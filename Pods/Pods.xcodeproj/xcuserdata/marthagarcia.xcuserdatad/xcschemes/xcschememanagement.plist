@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Charts.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-Final306Project.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>03A27EBFD4EEB38DE41B1A814C357DC5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A5C17C17E64707512BCECE1C89EFC8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9ECF036DA8B8A1237BD72DB84673C3A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC7DAB6C951C1A587AC95AC8D3FB3C4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F307B842FF76B2DE6C55DB67C0885325</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
